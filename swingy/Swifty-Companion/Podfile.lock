@@ -1,0 +1,20 @@
+PODS:
+  - JSONParserSwift (1.1.4)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - JSONParserSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - JSONParserSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  JSONParserSwift: fff6c8aee929431cfbb10d016e9b92f06f732057
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 1b6c1e8ac380ce38eac70bb03578b43459fc4e38
+
+COCOAPODS: 1.8.4
